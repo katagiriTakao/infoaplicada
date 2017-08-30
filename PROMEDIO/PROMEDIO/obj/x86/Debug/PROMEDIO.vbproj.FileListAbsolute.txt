@@ -1,0 +1,9 @@
+D:\taka\PROMEDIO\PROMEDIO\bin\Debug\PROMEDIO.exe
+D:\taka\PROMEDIO\PROMEDIO\bin\Debug\PROMEDIO.pdb
+D:\taka\PROMEDIO\PROMEDIO\bin\Debug\PROMEDIO.xml
+D:\taka\PROMEDIO\PROMEDIO\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\taka\PROMEDIO\PROMEDIO\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\taka\PROMEDIO\PROMEDIO\obj\x86\Debug\PROMEDIO.vbproj.GenerateResource.Cache
+D:\taka\PROMEDIO\PROMEDIO\obj\x86\Debug\PROMEDIO.exe
+D:\taka\PROMEDIO\PROMEDIO\obj\x86\Debug\PROMEDIO.xml
+D:\taka\PROMEDIO\PROMEDIO\obj\x86\Debug\PROMEDIO.pdb
